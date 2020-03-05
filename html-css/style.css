@@ -2,6 +2,26 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 
+
+#main-content{
+    font-family: sans-serif;
+}
+
+.banner{
+    background-image: url(../image/ima7_2000x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35vh;
+    padding-top: 8vh;
+    padding-left: 5vw;
+}
+
+.banner h1, p{
+    color: #ffffff;
+}
+
+.main{
+    background-color: #d7d7c1;
+}
